@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/https://casuallyshiny.github.io/test/',
   title: "Shiny",
   description: "A VitePress Site",
   base: '/main/',
